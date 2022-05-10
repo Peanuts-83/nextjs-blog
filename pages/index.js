@@ -22,7 +22,12 @@ export default function Home({ allPostsData }) {
       </Head>
 
       <main className={utilStyles.headingMd}>
-        <p>My introduction</p>
+        <p>I'm a front-end developer now. Sure I am! But I've been so much things over time... Flight atendant at Air France, graphic designer, farrier (yes, horse shooes!)
+          <br />
+          At the age of 45, I started needing something more, maybe waiking up my brain, learn new things, a new world. And noowadays I learn new stuff each day (at least the days I'm not shooeing horses!).
+          <br />
+          I'm a front-end developer now... Hope your life is as fun as mine 😃
+        </p>
       </main>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
