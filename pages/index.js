@@ -22,9 +22,9 @@ export default function Home({ allPostsData }) {
       </Head>
 
       <main className={utilStyles.headingMd}>
-        <p>I'm a front-end developer now. Sure I am! But I've been so much things over time... Flight atendant at Air France, graphic designer, farrier (yes, horse shooes!)
+        <p className={utilStyles.centerText}>I'm a front-end developer now. Sure I am! But I've been so much things over time... Flight attendant at Air France, graphic designer, farrier (yes, horse shoes!)
           <br />
-          At the age of 45, I started needing something more, maybe waiking up my brain, learn new things, a new world. And noowadays I learn new stuff each day (at least the days I'm not shooeing horses!).
+          At the age of 45, I started needing something more, maybe waiking up my brain, learn new things, a new world. And noowadays I learn new stuff each day (at least the days I'm not shoeing horses!).
           <br />
           I'm a front-end developer now... Hope your life is as fun as mine 😃
         </p>

@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Secular+One&family=Source+Sans+Pro:wght@400;600&display=swap');
+html {
+  background: url("/images/bg_top.svg"), url("/images/bg_bottom.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, contain;
+  background-position: top center, bottom center;
+}
+
 html,
 body {
   padding: 0;
@@ -13,7 +21,7 @@ body {
 }
 
 a {
-  color: rgb(0, 59, 168);
+  color: rgb(22, 55, 116);
   text-decoration: none;
 }
 
@@ -24,4 +32,25 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
+}
+
+h1 {
+  font-family: 'Secular One', sans-serif;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+code {
+  color: brown;
+}
+
+em {
+  font-weight: bold;
+  color: brown;
 }

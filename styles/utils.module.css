@@ -27,7 +27,7 @@
   }
 
   .borderCircle {
-    border-radius: 9999px;
+    border-radius: 50%;
   }
 
   .colorInherit {
@@ -50,4 +50,12 @@
 
   .lightText {
     color: #666;
+  }
+
+  .centerText {
+    text-align: center;
+  }
+
+  .spacer {
+    margin: 15rem 0;
   }

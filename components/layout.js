@@ -38,6 +38,7 @@ export default function Layout({ children, home }) {
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{siteTitle}</h1>
+            <h2>My new life as a front-end dev apprentice</h2>
           </>
         ) : (
           <>
@@ -69,6 +70,7 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
+      <div className={utilStyles.spacer}></div>
     </div>
   );
 }
