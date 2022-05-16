@@ -73,3 +73,19 @@ pre {
 time {
   color: rgb(0, 111, 208);
 }
+
+.contact {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.contact * {
+  color: rgb(170, 194, 206);
+}
+
+.contact *:hover {
+  color: rgb(0, 111, 208);
+}

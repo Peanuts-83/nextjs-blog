@@ -38,6 +38,12 @@ export default function Layout({ children, home }) {
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{siteTitle}</h1>
+            <div className="contact">
+              <Link href='mailto:tranque@free.fr'>
+                <a>Contact</a>
+              </Link>
+              <a href='http://thomasranque.com' target='_blank'>WebSite - Portfolio</a>
+            </div>
             <h2>My new life as a front-end dev apprentice</h2>
           </>
         ) : (
