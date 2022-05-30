@@ -60,14 +60,24 @@ code {
 }
 
 em {
-  font-weight: bold;
-  color: rgb(197, 3, 197);
+  /* font-weight: bold; */
+  color: rgb(138, 0, 138);
+}
+
+strong {
+
+  color: rgb(138, 0, 138);
 }
 
 pre {
-  background-color: rgb(138, 26, 146);
+  background-color: rgb(0, 74, 139);
   border-radius: 5px;
   padding: 10px;
+  box-shadow: 0 0 10px rgb(5, 46, 81);
+  line-height: 90%;
+  border-radius: 10px;
+  /* background-color: rgba(0,111,208,.15); */
+  /* padding: 20px; */
 }
 
 time {
