@@ -52,12 +52,9 @@ As you can see, the component accepts an **onError** eventHandler that enables t
 
 ## Responsive image
 
-An important option for responsive image management is the proper use of **layout** property. Here are he accepted options you will have to use :
-
-The **layout** behavior of the image as the viewport changes size.
+An important option for responsive image management is the proper use of **layout** property. Here are the accepted options you will have to use for the **layout** behavior of the image as the viewport changes size :
 
 * **intrinsic** (default)
-
     - Behavior : Scale down to fit width of container, up to image size
     - srcSet : 1x, 2x (based on imageSizes)
     - sizes : N/A
@@ -80,8 +77,10 @@ The **layout** behavior of the image as the viewport changes size.
     - srcSet : 640w, 750w, ... 2048w, 3840w (based on imageSizes and deviceSizes)
     - sizes : 100vw
     - has wrapper and sizer : yes
+
 * **raw**
     - Behavior : Insert the image element with no automatic layout behavior
     - srcSet : Behaves like responsive if the image has the sizes prop, and like fixed if it does not
     - sizes : optional
     - has wrapper and sizer : no
+
