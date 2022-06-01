@@ -22,11 +22,16 @@ export default function Home({ allPostsData }) {
       </Head>
 
       <main className={utilStyles.headingMd}>
-        <p className={utilStyles.centerText}>I'm a front-end developer now. Sure I am! But I've been so much things over time... Flight attendant at Air France, graphic designer, farrier (yes, horse shoes!)
+        <p className={utilStyles.centerText}>
+          As a self-taugh front-end developer, I would say the most difficult part of my job is keeping focused on one thing at the time.
           <br />
-          At the age of 45, I started needing something more, maybe waiking up my brain, learn new things, a new world. And noowadays I learn new stuff each day (at least the days I'm not shoeing horses!).
+          Technologies are growing and mutating so quickly, every new framework is so much exiting...
           <br />
-          I'm a front-end developer now... Hope your life is as fun as mine 😃
+          As a wise man use to say : "You have to be aware...!" (JCV).
+          <br />
+          True! Aware of the whole ecosystem, from front to back, from CI/CD to SCRUM method, but in the mean time, you have to get focused on your learning path.
+          <br />
+          At the age of 44, I started learning Python and Javascript. And nowadays I keep learning new stuff each day, digging my furrow patiently in the IT! The fun thing is that's endless, so I'll never become idle. Hope your life is as fun as mine 😃
         </p>
       </main>
 

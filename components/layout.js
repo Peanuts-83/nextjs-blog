@@ -44,7 +44,7 @@ export default function Layout({ children, home }) {
               </Link>
               <a href='http://thomasranque.com' target='_blank'>WebSite - Portfolio</a>
             </div>
-            <h2>My new life as a front-end dev apprentice</h2>
+            <h2>Code for life, from front to back</h2>
           </>
         ) : (
           <>
