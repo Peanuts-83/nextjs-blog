@@ -1,4 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Secular+One&family=Source+Sans+Pro:wght@400;600&display=swap');
+
+:root {
+  --nextjs: rgb(104, 185, 83);
+  --react: rgb(66, 114, 218);
+  --javascript: rgb(219, 93, 34);
+  --html: rgb(38, 206, 150);
+  --css: rgb(198, 200, 33);
+  --database: rgb(191, 38, 66);
+  --mood: rgb(228, 57, 191);
+}
+
 html {
   background: url("/images/bg_top.svg"), url("/images/bg_bottom.svg");
   background-repeat: no-repeat, no-repeat;

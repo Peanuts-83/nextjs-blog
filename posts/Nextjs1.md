@@ -1,6 +1,7 @@
 ---
 title: 'React-CRA migration to NextJS #1'
 date: '2022-05-14'
+tech: 'React'
 ---
 
 *In my NextJS framework learning goal, I decided to convert a React application (Create-React-App) into a NextJS application.*

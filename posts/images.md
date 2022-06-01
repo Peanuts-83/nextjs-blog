@@ -1,6 +1,7 @@
 ---
-title: 'Image fallback & responsive in NextJS'
+title: 'Image fallback & responsive'
 date: '2022-05-30'
+tech: 'NextJS'
 ---
 
 Image management in NextJS can be made by using **Image component**.
@@ -83,4 +84,3 @@ An important option for responsive image management is the proper use of **layou
     - srcSet : Behaves like responsive if the image has the sizes prop, and like fixed if it does not
     - sizes : optional
     - has wrapper and sizer : no
-

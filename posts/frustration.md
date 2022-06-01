@@ -1,6 +1,7 @@
 ---
 title: '{ "Frustration": "Motivation" }'
 date: '2022-05-10'
+tech: 'Mood'
 ---
 
 I see some learners express their difficulties on a daily basis and ask themselves the question of continuing. It is healthy to express oneself and to externalize one's anxieties.
