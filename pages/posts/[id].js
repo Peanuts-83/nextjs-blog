@@ -28,7 +28,7 @@ export default function Post({ postData }) {
             <Head>
                 <title>{postData.title}</title>
             </Head>
-            <postContainer className={utilStyles.postContainer}>
+            <post_container className={utilStyles.postContainer}>
                 <h1 className={utilStyles.headingXl}>{postData.title}</h1>
                 <h3 className={utilStyles.techBill} style={{background: `var(--${postData.tech.toLowerCase()})`}}>{postData.tech}</h3>
                 <br />
@@ -37,7 +37,7 @@ export default function Post({ postData }) {
                 </div>
                 <br />
                 <div dangerouslySetInnerHTML={{ __html: postData.contentHTML }} />
-            </postContainer>
+            </post_container>
         </Layout>
     )
 }
