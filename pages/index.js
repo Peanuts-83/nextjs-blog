@@ -27,11 +27,9 @@ export default function Home({ allPostsData }) {
           <br />
           Technologies are growing and mutating so quickly, every new framework is so much exiting...
           <br />
-          As a wise man use to say : "You have to be aware...!" (JCV).
+          From Python bases to Vanila Javascript, from HTML/CSS to React and Angular, from MongoDB to SQL databases, having a look at NextJS, Sass, and the last UI/UX design libraries such as Material Design, I keep growing my knowledge on dev ecosystem.
           <br />
-          True! Aware of the whole ecosystem, from front to back, from CI/CD to SCRUM method, but in the mean time, you have to get focused on your learning path.
-          <br />
-          At the age of 44, I started learning Python and Javascript. And nowadays I keep learning new stuff each day, digging my furrow patiently in the IT! The fun thing is that's endless, so I'll never become idle. Hope your life is as fun as mine 😃
+          Here are a few thought I had during my journey...
         </p>
       </main>
 
