@@ -4,7 +4,7 @@ date: '2022-07-31'
 tech: 'Angular'
 ---
 
-[![Material Design demo](/images/material/materialImg.png)](http://ec2-3-128-180-89.us-east-2.compute.amazonaws.com/)
+[![Material Design demo](/images/material/materialImg.png)](https://ng-material-peanuts.herokuapp.com/)
 [My Github repository](https://github.com/Peanuts-83/angular_material/tree/main/client)
 
 Discover with a quick *HOW TO* the way to manage Material Design in your Angular projects. This is a short overview of the nice and smooth UI/UX capabilities of this cross-over framework library.
@@ -82,7 +82,7 @@ Except specific functionalities, you will import them the same way every time:
 Some options are generic ones, such as color (basic/primary/accent/warn).<br>
 Each components gets specific options, such as FormGroup and formControlName for Input components.
 
-You can see a demo of a few part of the huge ammount of components of this library on [my demo page](http://ec2-3-128-180-89.us-east-2.compute.amazonaws.com/), while the technical explanations live on my Github README file.
+You can see a demo of a few part of the huge ammount of components of this library on [my demo page](https://ng-material-peanuts.herokuapp.com/), while the technical explanations live on my Github README file.
 
 [My Github repository](https://github.com/Peanuts-83/angular_material/tree/main/client)
 
