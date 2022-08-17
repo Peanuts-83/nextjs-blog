@@ -4,7 +4,7 @@ date: '2022-08-17'
 tech: 'Angular'
 ---
 
-[![OpenStreetMap demo](/public/images/openstreet/openstreetmap.png)](https://peanuts-83.github.io/maps_nice)
+[![OpenStreetMap demo](/images/openstreet/openstreetmap.png)](https://peanuts-83.github.io/maps_nice)
 [My Github repository](https://github.com/Peanuts-83/maps_nice)
 
 Curious to know how to implement some interractive maps in your projects ? Want to make use of public data to enrich your map and fit your needs ?
