@@ -88,8 +88,7 @@ pre {
   box-shadow: 0 0 10px rgb(5, 46, 81);
   line-height: 90%;
   border-radius: 10px;
-  /* background-color: rgba(0,111,208,.15); */
-  /* padding: 20px; */
+  overflow: auto;
 }
 
 time {
